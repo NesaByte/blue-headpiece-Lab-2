@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Lab2_DPS924_NesaBertanico</string>
+    <string name="username_hint">Name</string>
+    <string name="lab15">Lab1(5%)</string>
+    <string name="lab1">Nesa Bertanico</string>
+    <string name="humber">HUMBER</string>
+    <string name="york">YORK</string>
+    <string name="ryerson">RYERSON</string>
+    <string name="seneca">SENECA</string>
+    <string name="ja">January</string>
+    <string name="fe">February</string>
+    <string name="ma">March</string>
+    <string name="ap">April</string>
+    <string name="may">May</string>
+    <string name="jun">June</string>
+    <string name="jul">July</string>
+    <string name="aug">August</string>
+    <string name="sep">September</string>
+    <string name="oct">October</string>
+    <string name="nov">November</string>
+    <string name="dec">December</string>
+    <string name="bnumber">Birth Day(1-31)</string>
+    <string name="reset">Reset</string>
+    <string name="subm">Submit</string>
+
+    <string name="red">Red</string>
+    <string name="orange">Orange</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="indigo">Indigo</string>
+    <string name="violet">Violet</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="pink">Pink</string>
+
+    <string name="lab2">Flower Fairy Name Generator</string>
+    <string name="month">Your Birth Month:</string>
+    <string name="tscolor">Shirt Color:</string>
+    <string name="happy">Happiness level:</string>
+
+</resources>
